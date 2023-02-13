@@ -65,6 +65,14 @@
 [submodule "shinyslack"]
 	path = shinyslack
 	url = https://github.com/r4ds/shinyslack
+[submodule "slackcalls"]
+	path = slackcalls
+	url = https://github.com/yonicd/slackcalls
+	registered = false
+[submodule "slackteams"]
+	path = slackteams
+	url = https://github.com/yonicd/slackteams
+	registered = false
 [submodule "stbl"]
 	path = stbl
 	url = https://github.com/jonthegeek/stbl

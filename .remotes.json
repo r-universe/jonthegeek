@@ -138,6 +138,24 @@
     "from": "trellor"
   },
   {
+    "package": "scenes",
+    "url": "https://github.com/r4ds/scenes",
+    "via": ["shinyslack"],
+    "from": "shinyslack"
+  },
+  {
+    "package": "slackcalls",
+    "url": "https://github.com/yonicd/slackcalls",
+    "via": ["shinyslack"],
+    "from": "shinyslack"
+  },
+  {
+    "package": "slackteams",
+    "url": "https://github.com/yonicd/slackteams",
+    "via": ["shinyslack"],
+    "from": "shinyslack"
+  },
+  {
     "package": "stbl",
     "url": "https://github.com/jonthegeek/stbl",
     "via": ["anyapi", "apisguru", "beekeeper", "nectar"],

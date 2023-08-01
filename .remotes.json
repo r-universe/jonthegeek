@@ -190,5 +190,11 @@
     "url": "https://github.com/jonthegeek/stbl",
     "via": ["trellor", "beekeeper", "nectar"],
     "from": "trellor"
+  },
+  {
+    "package": "torchtransformers",
+    "url": "https://github.com/macmillancontentscience/torchtransformers",
+    "via": ["tidybert"],
+    "from": "tidybert"
   }
 ]

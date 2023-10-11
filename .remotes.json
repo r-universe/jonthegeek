@@ -14,6 +14,12 @@
   {
     "package": "S7",
     "url": "https://github.com/RConsortium/S7",
+    "via": ["fecapi", "beekeeper", "rapid"],
+    "from": "fecapi"
+  },
+  {
+    "package": "S7",
+    "url": "https://github.com/RConsortium/S7",
     "via": ["rapid"],
     "from": "rapid"
   },
@@ -38,6 +44,12 @@
   {
     "package": "beekeeper",
     "url": "https://github.com/jonthegeek/beekeeper",
+    "via": ["fecapi"],
+    "from": "fecapi"
+  },
+  {
+    "package": "beekeeper",
+    "url": "https://github.com/jonthegeek/beekeeper",
     "via": ["trellor"],
     "from": "trellor"
   },
@@ -52,6 +64,12 @@
     "url": "https://github.com/r-lib/httr2",
     "via": ["beekeeper", "nectar"],
     "from": "beekeeper"
+  },
+  {
+    "package": "httr2",
+    "url": "https://github.com/r-lib/httr2",
+    "via": ["fecapi", "beekeeper", "nectar"],
+    "from": "fecapi"
   },
   {
     "package": "httr2",
@@ -86,6 +104,12 @@
   {
     "package": "nectar",
     "url": "https://github.com/jonthegeek/nectar",
+    "via": ["fecapi", "beekeeper"],
+    "from": "fecapi"
+  },
+  {
+    "package": "nectar",
+    "url": "https://github.com/jonthegeek/nectar",
     "via": ["trellor", "beekeeper"],
     "from": "trellor"
   },
@@ -104,6 +128,12 @@
   {
     "package": "rapid",
     "url": "https://github.com/jonthegeek/rapid",
+    "via": ["fecapi", "beekeeper"],
+    "from": "fecapi"
+  },
+  {
+    "package": "rapid",
+    "url": "https://github.com/jonthegeek/rapid",
     "via": ["trellor", "beekeeper"],
     "from": "trellor"
   },
@@ -118,6 +148,12 @@
     "url": "https://github.com/jonthegeek/stbl",
     "via": ["beekeeper", "nectar"],
     "from": "beekeeper"
+  },
+  {
+    "package": "stbl",
+    "url": "https://github.com/jonthegeek/stbl",
+    "via": ["fecapi", "beekeeper", "nectar"],
+    "from": "fecapi"
   },
   {
     "package": "stbl",

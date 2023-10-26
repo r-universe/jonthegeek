@@ -12,6 +12,12 @@
     "from": "beekeeper"
   },
   {
+    "package": "httr2",
+    "url": "https://github.com/r-lib/httr2",
+    "via": ["nectar"],
+    "from": "nectar"
+  },
+  {
     "package": "nectar",
     "url": "https://github.com/jonthegeek/nectar",
     "via": ["beekeeper"],
@@ -28,5 +34,11 @@
     "url": "https://github.com/jonthegeek/stbl",
     "via": ["beekeeper", "nectar"],
     "from": "beekeeper"
+  },
+  {
+    "package": "stbl",
+    "url": "https://github.com/jonthegeek/stbl",
+    "via": ["nectar"],
+    "from": "nectar"
   }
 ]

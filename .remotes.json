@@ -1,0 +1,32 @@
+[
+  {
+    "package": "S7",
+    "url": "https://github.com/RConsortium/S7",
+    "via": ["beekeeper", "rapid"],
+    "from": "beekeeper"
+  },
+  {
+    "package": "httr2",
+    "url": "https://github.com/r-lib/httr2",
+    "via": ["beekeeper", "nectar"],
+    "from": "beekeeper"
+  },
+  {
+    "package": "nectar",
+    "url": "https://github.com/jonthegeek/nectar",
+    "via": ["beekeeper"],
+    "from": "beekeeper"
+  },
+  {
+    "package": "rapid",
+    "url": "https://github.com/jonthegeek/rapid",
+    "via": ["beekeeper"],
+    "from": "beekeeper"
+  },
+  {
+    "package": "stbl",
+    "url": "https://github.com/jonthegeek/stbl",
+    "via": ["beekeeper", "nectar"],
+    "from": "beekeeper"
+  }
+]

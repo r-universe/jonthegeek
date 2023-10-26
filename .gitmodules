@@ -9,6 +9,10 @@
 [submodule "anyapi"]
 	path = anyapi
 	url = https://github.com/jonthegeek/anyapi
+[submodule "apisguru"]
+	path = apisguru
+	url = https://github.com/jonthegeek/apisguru
+	registered = false
 [submodule "asanar"]
 	path = asanar
 	url = https://github.com/jonthegeek/asanar

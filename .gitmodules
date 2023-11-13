@@ -1,7 +1,82 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jonthegeek/jonthegeek.r-universe.dev
 	branch = HEAD
+[submodule "anyapi"]
+	path = anyapi
+	url = https://github.com/jonthegeek/anyapi
+[submodule "asanar"]
+	path = asanar
+	url = https://github.com/jonthegeek/asanar
+[submodule "aws.lambda"]
+	path = aws.lambda
+	url = https://github.com/cloudyr/aws.lambda
+[submodule "beekeeper"]
+	path = beekeeper
+	url = https://github.com/jonthegeek/beekeeper
+[submodule "cookies"]
+	path = cookies
+	url = https://github.com/r4ds/cookies
+[submodule "dlr"]
+	path = dlr
+	url = https://github.com/macmillancontentscience/dlr
 [submodule "factory"]
 	path = factory
 	url = https://github.com/jonthegeek/factory
+[submodule "fecapi"]
+	path = fecapi
+	url = https://github.com/jonthegeek/fecapi
+[submodule "mockplumber"]
+	path = mockplumber
+	url = https://github.com/jonthegeek/mockplumber
+[submodule "morphemepiece"]
+	path = morphemepiece
+	url = https://github.com/macmillancontentscience/morphemepiece
+[submodule "morphemepiece.data"]
+	path = morphemepiece.data
+	url = https://github.com/macmillancontentscience/morphemepiece.data
+[submodule "nectar"]
+	path = nectar
+	url = https://github.com/jonthegeek/nectar
+[submodule "piecemaker"]
+	path = piecemaker
+	url = https://github.com/macmillancontentscience/piecemaker
+[submodule "rapid"]
+	path = rapid
+	url = https://github.com/jonthegeek/rapid
+[submodule "rli"]
+	path = rli
+	url = https://github.com/jonthegeek/rli
+[submodule "scenes"]
+	path = scenes
+	url = https://github.com/r4ds/scenes
+[submodule "shinyslack"]
+	path = shinyslack
+	url = https://github.com/r4ds/shinyslack
+[submodule "stbl"]
+	path = stbl
+	url = https://github.com/jonthegeek/stbl
+[submodule "tableguess"]
+	path = tableguess
+	url = https://github.com/jonthegeek/tableguess
+[submodule "tidybert"]
+	path = tidybert
+	url = https://github.com/macmillancontentscience/tidybert
+[submodule "torchtransformers"]
+	path = torchtransformers
+	url = https://github.com/macmillancontentscience/torchtransformers
+[submodule "trellor"]
+	path = trellor
+	url = https://github.com/jonthegeek/trellor
+[submodule "wordpiece"]
+	path = wordpiece
+	url = https://github.com/macmillancontentscience/wordpiece
+[submodule "wordpiece.data"]
+	path = wordpiece.data
+	url = https://github.com/macmillancontentscience/wordpiece.data
+[submodule "youtubeR"]
+	path = youtubeR
+	url = https://github.com/kevin-m-kent/youtubeR
+[submodule "zoomer"]
+	path = zoomer
+	url = https://github.com/jonthegeek/zoomer

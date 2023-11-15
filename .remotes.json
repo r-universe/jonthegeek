@@ -8,12 +8,6 @@
   {
     "package": "S7",
     "url": "https://github.com/RConsortium/S7",
-    "via": ["beekeeper", "rapid"],
-    "from": "beekeeper"
-  },
-  {
-    "package": "S7",
-    "url": "https://github.com/RConsortium/S7",
     "via": ["fecapi", "beekeeper", "rapid"],
     "from": "fecapi"
   },

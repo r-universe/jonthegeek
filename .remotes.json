@@ -20,12 +20,6 @@
   {
     "package": "S7",
     "url": "https://github.com/RConsortium/S7",
-    "via": ["rapid"],
-    "from": "rapid"
-  },
-  {
-    "package": "S7",
-    "url": "https://github.com/RConsortium/S7",
     "via": ["trellor", "beekeeper", "rapid"],
     "from": "trellor"
   },

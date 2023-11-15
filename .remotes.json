@@ -62,12 +62,6 @@
   {
     "package": "httr2",
     "url": "https://github.com/r-lib/httr2",
-    "via": ["nectar"],
-    "from": "nectar"
-  },
-  {
-    "package": "httr2",
-    "url": "https://github.com/r-lib/httr2",
     "via": ["trellor", "beekeeper", "nectar"],
     "from": "trellor"
   },

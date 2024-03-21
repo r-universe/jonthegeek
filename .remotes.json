@@ -115,7 +115,7 @@
   },
   {
     "package": "scenes",
-    "url": "https://github.com/r4ds/scenes",
+    "url": "https://github.com/shinyworks/scenes",
     "via": ["shinyslack"],
     "from": "shinyslack"
   },

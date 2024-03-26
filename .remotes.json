@@ -168,6 +168,12 @@
     "from": "trellor"
   },
   {
+    "package": "tibblify",
+    "url": "https://github.com/mgirlich/tibblify",
+    "via": ["rapid"],
+    "from": "rapid"
+  },
+  {
     "package": "torchtransformers",
     "url": "https://github.com/macmillancontentscience/torchtransformers",
     "via": ["tidybert"],

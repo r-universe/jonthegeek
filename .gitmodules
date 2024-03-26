@@ -79,6 +79,10 @@
 [submodule "tableguess"]
 	path = tableguess
 	url = https://github.com/jonthegeek/tableguess
+[submodule "tibblify"]
+	path = tibblify
+	url = https://github.com/mgirlich/tibblify
+	registered = false
 [submodule "tidybert"]
 	path = tidybert
 	url = https://github.com/macmillancontentscience/tidybert

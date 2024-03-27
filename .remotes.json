@@ -50,12 +50,6 @@
   {
     "package": "httr2",
     "url": "https://github.com/r-lib/httr2",
-    "via": ["beekeeper", "nectar"],
-    "from": "beekeeper"
-  },
-  {
-    "package": "httr2",
-    "url": "https://github.com/r-lib/httr2",
     "via": ["fecapi", "beekeeper", "nectar"],
     "from": "fecapi"
   },
@@ -166,6 +160,12 @@
     "url": "https://github.com/jonthegeek/stbl",
     "via": ["trellor", "beekeeper", "nectar"],
     "from": "trellor"
+  },
+  {
+    "package": "tibblify",
+    "url": "https://github.com/mgirlich/tibblify",
+    "via": ["beekeeper", "rapid"],
+    "from": "beekeeper"
   },
   {
     "package": "tibblify",

@@ -140,12 +140,6 @@
   {
     "package": "stbl",
     "url": "https://github.com/jonthegeek/stbl",
-    "via": ["rapid"],
-    "from": "rapid"
-  },
-  {
-    "package": "stbl",
-    "url": "https://github.com/jonthegeek/stbl",
     "via": ["trellor", "beekeeper", "nectar"],
     "from": "trellor"
   },

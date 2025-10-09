@@ -133,6 +133,12 @@
   },
   {
     "package": "stbl",
+    "url": "https://github.com/api2r/stbl",
+    "via": ["hrmn"],
+    "from": "hrmn"
+  },
+  {
+    "package": "stbl",
     "url": "https://github.com/jonthegeek/stbl",
     "via": ["nectar"],
     "from": "nectar"

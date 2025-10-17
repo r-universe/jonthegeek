@@ -42,7 +42,7 @@
 	url = https://github.com/jonthegeek/fecapi
 [submodule "hrmn"]
 	path = hrmn
-	url = https://github.com/jonthegeek/hrmn
+	url = https://github.com/wranglezone/hrmn
 [submodule "httr2"]
 	path = httr2
 	url = https://github.com/r-lib/httr2
@@ -90,7 +90,7 @@
 	registered = false
 [submodule "stbl"]
 	path = stbl
-	url = https://github.com/api2r/stbl
+	url = https://github.com/wranglezone/stbl
 [submodule "tableguess"]
 	path = tableguess
 	url = https://github.com/jonthegeek/tableguess
